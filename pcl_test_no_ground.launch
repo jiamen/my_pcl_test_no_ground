@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="My_pcl_test_no_ground" type="My_pcl_test_no_ground_node" name="pcl_test_no_ground_node" output="screen"/>
+</launch>
